@@ -37,7 +37,6 @@ The UART receiver module reconstructs the 8-bit parallel data from the incoming 
 ### 3. Push Button Debouncer
 Mechanical buttons often generate multiple transitions when pressed due to bouncing, causing unreliable inputs. This debouncing circuit ensures a clean and stable signal for button presses.
 
-- **File**: [`pushbutton_debounce_vhd.vhd`](path-to-file)
 - **Functionality**:
   - Stabilizes noisy signals from mechanical button presses.
   - Provides clean output after filtering unwanted transitions.
