@@ -106,8 +106,9 @@ The simulation shows proper timing and functionality of the UART protocol. The t
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-repository/UART_FPGA_Project.git
-   cd UART_FPGA_Project
+   git clone https://github.com/shawrajdeep00/UART-interfacing-with-FPGA
+   cd UART-interfacing-with-FPGA
+   
    ```
 
 2. **Open in Vivado**: 
